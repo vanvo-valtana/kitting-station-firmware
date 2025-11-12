@@ -1,0 +1,18 @@
+# STM32CubeIDE build artifacts
+Debug/
+Release/
+build/
+*.o
+*.o.d
+*.su
+*.map
+*.elf
+*.bin
+*.list
+*.htm
+*.html
+
+# STM32CubeIDE project files
+.project
+.cproject
+.settings/
